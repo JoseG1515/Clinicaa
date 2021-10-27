@@ -13,7 +13,7 @@
 <p id="title">LOGIN </p> 
 <hr>
 <br><br>
-<label id="usuario" >NOMBRE DE USUARIO </label>
+<label id="usuario" >NOMBRE DE USUARIO  </label>
 <br><br>
 <input type="text" class='entrada'/>
 <br><br>
